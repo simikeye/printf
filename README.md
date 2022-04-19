@@ -1,5 +1,4 @@
 # printf
-# printf
 
 A simple printf function built by Simisola and Somto.
 # Welcome
